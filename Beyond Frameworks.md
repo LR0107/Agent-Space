@@ -83,9 +83,7 @@ ACL 2025
 
 👉 本质：信息充分 vs 计算成本
 
-![](C:\Users\LR\AppData\Roaming\marktext\images\2026-05-11-10-27-18-image.png)
-
-![](C:\Users\LR\AppData\Roaming\marktext\images\2026-05-01-11-15-27-image.png)
+<img width="1116" height="1062" alt="image" src="https://github.com/user-attachments/assets/c8c91c2f-bd11-475c-bb94-936d83815c30" />
 
 ---
 
