@@ -112,7 +112,8 @@ LLM的上下文窗口有限，如果没有记忆模块：
 
 ---
 
-![](C:\Users\LR\AppData\Roaming\marktext\images\2026-05-23-10-05-20-image.png)
+<img width="1149" height="719" alt="image" src="https://github.com/user-attachments/assets/8fefc711-772c-4315-b68d-a4addf0483d8" />
+
 
 ---
 
