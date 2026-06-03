@@ -175,8 +175,7 @@ Issue描述
 否则： 0分
 
 最后统计：
-
-<img src="file:///C:/Users/LR/AppData/Roaming/marktext/images/2026-06-02-20-49-04-image.png" title="" alt="" width="276">
+<img width="471" height="90" alt="image" src="https://github.com/user-attachments/assets/315426a4-8b5f-450c-b480-af237548fe68" />
 
 ---
 
