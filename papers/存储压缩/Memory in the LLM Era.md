@@ -111,8 +111,7 @@ LLM的上下文窗口有限，如果没有记忆模块：
 - **LLM辅助检索（LLM-Assisted）**：将模糊查询解析为精准检索指令，发现隐含语义
 
 ---
-
-![](C:\Users\LR\AppData\Roaming\marktext\images\2026-05-23-10-05-20-image.png)
+<img width="1107" height="687" alt="image" src="https://github.com/user-attachments/assets/b470380c-80ef-439d-9983-ba4759fd6f53" />
 
 ---
 
