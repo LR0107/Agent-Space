@@ -142,15 +142,7 @@
 任务：把平底锅放到餐桌上
 
 模型需要：
-
-找到锅
-↓
-拿起锅
-↓
-找到桌子
-↓
-放下
-
+找到锅 → 拿起锅 → 找到桌子 → 放下
 考察：
 
 - 常识
@@ -262,7 +254,7 @@ AgentBench
 
 **4.分数计算**
 
-<img src="file:///C:/Users/LR/AppData/Roaming/marktext/images/2026-06-07-21-06-00-image.png" title="" alt="" width="316">
+<img width="537" height="87" alt="image" src="https://github.com/user-attachments/assets/b1d90cb4-6455-405e-b7f0-83c6425c71bb" />
 
 - **先对每个环境做归一化**
   - 用「模型分数 ÷ 该环境所有模型平均分」
