@@ -1,6 +1,4 @@
-# LEGOMem: Modular Procedural Memory for Multi-agent LLM
-
-Systems for Workflow Automation
+# LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation
 
 **AAMAS 2026**
 
